@@ -1,7 +1,7 @@
 package EjercicioInterfaces;
 
-public class Guerrero extends PersonajeBase {
-    public Guerrero(int level, String name, int lifePoints, int attackPower, int defensePower) {
+public class Picaro extends PersonajeBase {
+    public Picaro(int level, String name, int lifePoints, int attackPower, int defensePower) {
         super(level, name, lifePoints, attackPower, defensePower);
     }
 
